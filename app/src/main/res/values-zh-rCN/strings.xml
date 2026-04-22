@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">开心打地鼠</string>
+
+<!--    <string name="format_score_current">得分 \n %d</string>-->
+<!--    <string name="format_score_result">得分 \n %d</string>-->
+</resources>

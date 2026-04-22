@@ -1,0 +1,16 @@
+<resources>
+<!--    <style name="Theme.HappyTapGophers" parent="Theme.AppCompat.NoActionBar">-->
+<!--    <style name="Theme.HappyTapGophers" parent="Theme.AppCompat.Light.NoActionBar">-->
+    <style name="Theme.HappyTapGophers" parent="android:Theme.NoTitleBar">
+<!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+<!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
+<!--        <item name="android:windowIsTranslucent">true</item>-->
+<!--        <item name="android:windowBackground">@android:color/transparent</item>-->
+    </style>
+
+    <style name="LoadingTheme">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

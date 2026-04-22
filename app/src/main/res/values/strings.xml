@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Tap Gopher</string>
+
+    <string name="format_score_current" translatable="false">Current Score \n %d</string>
+    <string name="format_score_result" translatable="false">Score\n %d</string>
+
+    <string name="reward_ad_message" translatable="false">Watch ads, keep playing, and stay alive in the game!</string>
+<!--    <string name="ok" translatable="false">OK</string>-->
+<!--    <string name="cancel" translatable="false">Cancel</string>-->
+</resources>
